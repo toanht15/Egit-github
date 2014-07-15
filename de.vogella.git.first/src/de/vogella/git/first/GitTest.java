@@ -2,6 +2,6 @@ package de.vogella.git.first;
 
 public class GitTest {
 	public static void main(String[] args){
-		System.out.println("I am SunKid");
+		System.out.println("Hoang The Toan");
 	}
 }
